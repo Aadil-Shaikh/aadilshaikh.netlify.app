@@ -1,0 +1,14 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 6bf331d..b8d1ac4 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -2,7 +2,8 @@[m
+     <head>[m
+         <title>Aadil Shaikh</title>[m
+         <meta content='width=device-width, initial-scale=1, user-scalable=no' name='viewport'>[m
+[31m-[m
+[32m+[m[41m      [m
+[32m+[m[32m        <meta name="theme color" content="#1bbc9b"[m
+         <link href="css/main.css" rel="stylesheet">[m
+     </head>[m
+     <body>[m
